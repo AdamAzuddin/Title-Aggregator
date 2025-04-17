@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+.load-more-button {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+li{
+    margin-top: 10px;
+    text-align: start;
+}
+
+.article-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
